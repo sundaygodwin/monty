@@ -1,4 +1,5 @@
-#include "main.h"
+#include "monty.h"
+
 /**
  * f_mul - program multiplies only top two elements of the stack.
  * @head: stack head

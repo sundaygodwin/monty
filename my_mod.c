@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * f_mod - program computes all the rest of division of the second
  * top element of stack by the top element of the stack

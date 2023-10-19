@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * f_swap - program adds the top two elements of the stack.

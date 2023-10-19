@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
   *f_sub- progam for sustration

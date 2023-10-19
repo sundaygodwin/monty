@@ -1,4 +1,5 @@
-#include "main.h"
+#include "monty.h"
+
 /**
  *f_nop- good
  *@head: stack head

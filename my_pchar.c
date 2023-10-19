@@ -1,4 +1,5 @@
-#include "main.h"
+#include "monty.h"
+
 /**
  * f_pchar - program prints the char at the top of the stack,
  * followed by a new line

@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * f_add - program adds the first two elements of the stack.
  * @head: stack head

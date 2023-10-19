@@ -1,4 +1,5 @@
-#include "main.h"
+#include "monty.h"
+
 /**
  * f_pall - program prints the stack
  * @head: stack head

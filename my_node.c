@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * addnode - program adds node to the head stack
  * @head: head of the stack

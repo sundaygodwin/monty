@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * f_stack - this program prints the top
